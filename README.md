@@ -5,4 +5,5 @@ oi,sou gabriella
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 gbgabizinha/gbgabizinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes.![image](https://user-images.githubusercontent.com/105719709/186173772-66208640-c019-41a4-94f8-00f0e2f77c31.png)
+
